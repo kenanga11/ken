@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/3.jpg" group-title="LOKAL", MUSIK ID 2000an
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1686326240/ei/gPeCZLngI7OrmgfBg7KICg/ip/103.163.36.242/id/R1A7rV8R3SE.1/source/yt_live_broadcast/requiressl/yes/tx/24691567/txs/24691565%2C24691566%2C24691567%2C24691568/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/hightc/yes/spc/qEK7BxKAKLkIBNYISikPDIDO6SeMG3a6bxys-URSMEOIvtN9bdQrIwE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000011/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAP_JzscakrKTlvvaYFZZy_ZDfaCYJowlTeC-ZpyyIKMCAiA3p24sLCRbFL0jwuW5m9fKEJ4w5qUlXBILi0M0zYpybA%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/75.jpg" group-title="LOKAL", MUSIK ID 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1686326045/ei/vfaCZPazKdWB4-EPwoSy8AY/ip/103.163.36.242/id/D8idXdTYG4w.1/source/yt_live_broadcast/requiressl/yes/tx/24691567/txs/24691565%2C24691566%2C24691567%2C24691568/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/hightc/yes/spc/qEK7B6n2pILXKv4HG40PvQjjGSBO93h3Mxxqb1-9esqHd3oth2w35nw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000011/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIhAMsUVqMvnhCC1ptGCdLAMGMjJQcZRTcUVZteQgH2PfzRAh9aNtbcioHg3M0BcRqMRlyjs0R_h-DdGE7MvAH4Fw9X/file/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg" group-title="LOKAL", DENS PLAY
-http://210.210.155.37/x6bnqe/s/s37/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/42.jpg" group-title="LOKAL", DENS LIFESTYLE
 http://210.210.155.37/x6bnqe/s/s101/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg" group-title="LOKAL", LEARNING & KNOWLEDGE
@@ -102,11 +96,11 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/26660
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="OLAHRAGA",RS: EUROSPORT 2
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/26664
 #EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/84189654/9280_r32.jpg" group-title="OLAHRAGA",RS: MNC SPORT 1
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+http://mantul.biz.id:8888/rois/ro0806/1211.ts
 #EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/72cb1403/24c1_r32.jpg" group-title="OLAHRAGA",RS: MNC SPORT 2
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+http://mantul.biz.id:8888/rois/ro0806/5984.ts
 #EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/2e3fb585/eef1_r32.jpg" group-title="OLAHRAGA",RS: MNC SPORT 3
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+http://mantul.biz.id:8888/rois/ro0806/11984.ts
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/118.jpg" group-title="OLAHRAGA", TVRI SPORT
 http://210.210.155.37/qwr9ew/s/s107/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/121.jpg" group-title="OLAHRAGA", HORIZON SPORT
