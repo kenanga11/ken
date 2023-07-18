@@ -1,18 +1,9 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo=""  group-title="MY SECOND RELGION",HALA MADRID Y NADA MAS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSogjjx3w_BIZm_XgDs2A8YrH-u6LwfDSmMS71ac-1bwDIkgvvwKfoA1PoUAU0uuPQazfU&usqp=CAU"  group-title="MY SECOND RELGION",HALA MADRID Y NADA MAS
 https://www.dropbox.com/scl/fi/e4x67g3ox3tu6vpdrrko3/Hala-Madrid-...-y-nada-m-s.mp4?rlkey=zwbqmwi0m7og7jl9hatpz52r5&dl=1 
 
-#EXTINF:-1 tvg-logo=""  group-title="MY SECOND RELGION",REAL MADRID TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSogjjx3w_BIZm_XgDs2A8YrH-u6LwfDSmMS71ac-1bwDIkgvvwKfoA1PoUAU0uuPQazfU&usqp=CAU"  group-title="MY SECOND RELGION",REAL MADRID TV
 http://kuchini.site:8080/7abb81c7/e9c0e4445d/1136
-
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bobbyBakary/Btv/main/dup_0x7f08011a-removebg-preview%20(2).png?dl=0" group-title="PLAYLIST TERBARU",Review
-https://raw.githubusercontent.com/bobbyBakary/Btv/main/VID_20220526221756.mp4?dl=0
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bobbyBakary/Btv/main/dup_0x7f08011a-removebg-preview%20(2).png?dl=0" group-title="PLAYLIST TERBARU",GFPR Bersyukur
-https://raw.githubusercontent.com/bobbyBakary/Btv/main/gfpr.mp4?dl=0
-
 
 ================== LIVE EVENT ====================
 #EXTINF:0 tvg-logo="https://live-online-events.com/wp-content/uploads/2016/08/Logo-LiveOnlineEvents-Amsterdam-LOE-TV-Color.png" group-title="LIVE EVENTS",Live 1
