@@ -1849,7 +1849,7 @@ https://webudit.salamus1.lol/lb/premium114/index.m3u8
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.salamus1.lol/lb/premium115/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Rodja_TV.png/revision/latest?cb=20180922034039" group-title="Religi",RODJA TV
+#EXTINF:-1 tvg-logo="https://www.jagel.id/api/listimage/v/Rodja-TV-0-4395e01e3a19039d.jpg" group-title="Religi",RODJA TV
 https://rodjatv.com/rodjatv/live_720p2628kbs/index.m3u8 
 
 #EXTINF:-1 group-title="MOVIE INDO", YOWES BEN 3
