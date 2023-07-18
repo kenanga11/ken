@@ -1,4 +1,10 @@
-#EXTM3U
+#EXTM3U 
+#EXTINF:-1 tvg-logo=""  group-title="MY SECOND RELGION",REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0 
+
+#EXTINF:-1 tvg-logo=""  group-title="MY SECOND RELGION",HALA MADRID Y NADA MAS
+https://www.dropbox.com/scl/fi/e4x67g3ox3tu6vpdrrko3/Hala-Madrid-...-y-nada-m-s.mp4?rlkey=zwbqmwi0m7og7jl9hatpz52r5&dl=1
+
 #EXTINF:-1 tvg-logo=""  group-title="LOKAL",TVRI
 https://anevia114.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
