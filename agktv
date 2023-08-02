@@ -471,128 +471,41 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd 
 #EXTM3U
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title="OLAHRAGA 2",Sky Sport 24 FHD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/84
+#EXTINF:-1, "group-title="BEIN SPORT",   "BEIN SPORT"BEIN SPORTS AFC 1 FHD
+http://sansat.net:25461/NRVPBXYOBXFRUXF/HZKYNNV6CGNUX7O/176995
 
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title="OLAHRAGA 2",Sky Sport 24  HD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/186
+#EXTINF:-1, "group-title="BEIN SPORT",   "BEIN SPORT"===== BEINSPORT SD =====
+http://sansat.net:25461/NRVPBXYOBXFRUXF/HZKYNNV6CGNUX7O/118456
 
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title="OLAHRAGA 2",Sky Sport 24
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/187
+#EXTINF:-1, "group-title="BEIN SPORT",   "BEIN SPORT"BEIN SPORTS PREMIUM 1 SD
+http://sansat.net:25461/NRVPBXYOBXFRUXF/HZKYNNV6CGNUX7O/60960
 
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title="OLAHRAGA 2",Sky Sport Uno FHD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/188
+#EXTINF:-1, "group-title="BEIN SPORT",   "BEIN SPORT"BEIN SPORTS PREMIUM 2 SD
+http://sansat.net:25461/NRVPBXYOBXFRUXF/HZKYNNV6CGNUX7O/60961
 
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title="OLAHRAGA 2",Sky Sport Uno HD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/83
+#EXTINF:-1, "group-title="BEIN SPORT",   "BEIN SPORT"BEIN SPORTS PREMIUM 3 SD
+http://sansat.net:25461/NRVPBXYOBXFRUXF/HZKYNNV6CGNUX7O/60962
 
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title="OLAHRAGA 2",Sky Sport Uno
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/189
+#EXTINF:-1, "group-title="BEIN SPORT",   "BEIN SPORT"BEIN SPORTS 1 SD
+http://sansat.net:25461/NRVPBXYOBXFRUXF/HZKYNNV6CGNUX7O/60967
 
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title="OLAHRAGA 2",Sky Sport Football FHD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/191
+#EXTINF:-1, "group-title="BEIN SPORT",   "BEIN SPORT"BEIN SPORTS 2 SD
+http://sansat.net:25461/NRVPBXYOBXFRUXF/HZKYNNV6CGNUX7O/60970
 
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title="OLAHRAGA 2",Sky Sport Football HD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/190
+#EXTINF:-1, "group-title="BEIN SPORT",   "BEIN SPORT"BEIN SPORTS 3 SD
+http://sansat.net:25461/NRVPBXYOBXFRUXF/HZKYNNV6CGNUX7O/60969
 
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title="OLAHRAGA 2",Sky Sport Football
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/140
+#EXTINF:-1, "group-title="BEIN SPORT",   "BEIN SPORT"BEIN SPORTS 4 SD
+http://sansat.net:25461/NRVPBXYOBXFRUXF/HZKYNNV6CGNUX7O/60963
 
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Sky Sport NBA FHD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/193
+#EXTINF:-1, "group-title="BEIN SPORT",   "BEIN SPORT"BEIN SPORTS 5 SD
+http://sansat.net:25461/NRVPBXYOBXFRUXF/HZKYNNV6CGNUX7O/60964
 
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Sky Sport NBA HD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/194
+#EXTINF:-1, "group-title="BEIN SPORT",   "BEIN SPORT"BEIN SPORTS 6 SD
+http://sansat.net:25461/NRVPBXYOBXFRUXF/HZKYNNV6CGNUX7O/60965
 
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Sky Sport NBA
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/195
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Sky Sport Arena FHD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/196
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Sky Sport Arena HD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/197
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Sky Sport Arena
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/198
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Sky Sport MotoGp FHD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/199
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Sky Sport MotoGp HD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/200
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Sky Sport MotoGP
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/457
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Sky Sport F1 FHD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/202
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Sky Sport F1 HD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/203
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Sky Sport F1
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/204
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Sky Sport Action FHD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/205
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Sky Sport Action HD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/206
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Sky Sport Action
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/458
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Eurosport 1 FHD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/210
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",EUROSPORT 1 HD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/211
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Eurosport 2 FHD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/212
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",EUROSPORT 2 HD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/213
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Rai Sport + FHD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/60
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Rai Sport + HD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/61
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Sport Italia HD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/90
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Sky Sport Tennis FHD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/362
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Sky Sport Tennis HD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/363
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Sky Sport Tennis
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/459
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Sky Sport Calcio  FHD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/222
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Sky Sport Calcio HD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/223
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Sky Sport Calcio
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/224
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Sky Sport  251 HD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/229
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Blue Sport 1 HD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/331
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",Blue Sport 2 HD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/332
-
-#EXTINF:-1 tvg-logo="OLAHRAGA 2"  group-title=" OLAHRAGA 2",MySports One HD
-http://x-type-v8.sytes.net:8080/comune/yGmJCyRFET/318 
+#EXTINF:-1, "group-title="BEIN SPORT",   "BEIN SPORT"BEIN SPORTS 7 SD
+http://sansat.net:25461/NRVPBXYOBXFRUXF/HZKYNNV6CGNUX7O/60966
 
 #EXTM3U
 #EXTINF:-1 tvg-logo=""  group-title="OLAHRAGA 2",SSC extra 1 SD
