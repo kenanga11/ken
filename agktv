@@ -1908,7 +1908,7 @@ https://webudit.salamus1.lol/lb/premium114/index.m3u8
 https://webudit.salamus1.lol/lb/premium115/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagel.id/api/listimage/v/Rodja-TV-0-4395e01e3a19039d.jpg" group-title="Religi",RODJA TV
-http://kuchini.site:8080/devtv/5af3eeb538/264758
+http://210.210.155.35:80/session/c8a56596-2ed9-11eb-a769-b82a72d63267/qwr9ew/s/s14/01.m3u8
 
 #EXTINF:-1 group-title="MOVIE INDO", YOWES BEN 3
 https://www.googleapis.com/drive/v3/files/1-nq7vMNv6q_7agU0I5R6D_jg98RZPGFs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
