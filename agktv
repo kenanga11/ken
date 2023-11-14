@@ -644,6 +644,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlK
 #KODIPROP:inputstream.adaptive.license_key=552bc18038d025c26ead432fa521f83a:beab0589d5f15d4a56278c7df913b263
 https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
+#EXTINF:-1 tvg-logo="https://www.jagel.id/api/listimage/v/Rodja-TV-0-4395e01e3a19039d.jpg" group-title="Religi",RODJA TV
+https://rodjatv.com/rodjatv/live.m3u8
+
 ====EXTRA====
 #EXTINF:1 tvg-id="pptv.hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrzs1KfV1r0_K4uIGZXjDUXPP-rXEiT7BgQw&usqp=CAU" group-title="OLAH RAGA", PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
@@ -1907,8 +1910,7 @@ https://webudit.salamus1.lol/lb/premium114/index.m3u8
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.salamus1.lol/lb/premium115/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jagel.id/api/listimage/v/Rodja-TV-0-4395e01e3a19039d.jpg" group-title="Religi",RODJA TV
-http://210.210.155.37/qwr9ew/s/s14/index.m3u8
+
 
 #EXTINF:-1 group-title="MOVIE INDO", YOWES BEN 3
 https://www.googleapis.com/drive/v3/files/1-nq7vMNv6q_7agU0I5R6D_jg98RZPGFs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
